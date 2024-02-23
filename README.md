@@ -1,0 +1,3 @@
+# Thinkpad
+
+My awesome theme

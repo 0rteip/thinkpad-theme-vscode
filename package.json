@@ -1,0 +1,23 @@
+{
+  "name": "thinkpad",
+  "displayName": "Thinkpad",
+  "description": "A simple thinkpad inspired theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "0rteip",
+  "license": "SEE LICENSE IN LICENSE",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thinkpad",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thinkpad-color-theme.json"
+      }
+    ]
+  }
+}
