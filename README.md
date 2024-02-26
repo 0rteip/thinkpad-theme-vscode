@@ -1,6 +1,6 @@
 # Thinkpad for [VS Code](https://code.visualstudio.com/)
 
-> A dark theme for [Visual Studio Code](https://foobar.com).
+> A dark theme for [Visual Studio Code](https://code.visualstudio.com/).
 
 ![Screenshot](image.png)
 
